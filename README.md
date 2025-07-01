@@ -2,9 +2,9 @@
 ## Problem
 Sebagai pembelajaran awal dari pelatihan Digital Skill Fair 40.0 – Faculty of Data (DS) bersama Dibimbing.id kita diharuskan untuk membuat suatu pemrograman input data seperti kita memasukkan nama, nim, dan nilai ujian.
 ## Pemrograman yang dibuat yaitu :
--Permintaan input data nama, nim dan nilai ujian mahasiswa
--Menampilkan Tipe data
--Menampilkan hasil kategori (A, B, C dan D)
+### Permintaan input data nama, nim dan nilai ujian mahasiswa
+### Menampilkan Tipe data
+### Menampilkan hasil kategori (A, B, C dan D)
 
 ## Library yang digunakan
 -python
