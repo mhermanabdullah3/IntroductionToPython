@@ -10,6 +10,6 @@ Sebagai pembelajaran awal dari bootcamp Dibimbing.id kita diharuskan untuk membu
 -python
 
 ## Insight
-Pemahaman yang saya dapatkan dari pembuatan project input data ini sebagai seorang beginner saya mendapatkan sebuah pemahaman baru yaitu bagaimana melakukan penginputan dengan daftar nama yang telah ada dan tidak ada, jika belum adanya daftar nama maka ia tidak akan terbaca. Jadi untuk pola pikir saya adalah ini merupakan penginputan data dari data yang sudah ada dan cuman dilakukan pengecekan apakah hasil nilai ujian ini berkategori apa dan tipe datanya apa
+Pemahaman yang saya dapatkan dari pembuatan project input data ini sebagai seorang beginner saya mendapatkan sebuah pemahaman baru yaitu bagaimana melakukan penginputan dengan daftar nama yang telah ada dan tidak ada, jika belum adanya daftar nama maka ia tidak akan terbaca. Untuk lebih singkatnya saya membuat 2 program yaitu pertama dengan adanya daftar nama yang dimana itu harus dilakukan penginputan sesuai dengan data yang ada, dan untuk yang tidak memiliki daftar nama itu tinggal dimasukkan inputnya.
 
 #IntroductionToPython #python #googlecolab #dibimbing.id
